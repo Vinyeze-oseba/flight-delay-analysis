@@ -1,0 +1,553 @@
+flight_id,flight_date,month,day_of_week,airline_code,airline_name,origin,destination,scheduled_departure,scheduled_arrival,departure_delay,arrival_delay,cancelled,cancellation_code,cancellation_reason,diverted,distance,air_time,on_time
+1000,2023-10-09,10,Monday,DL,Delta Air Lines,ATL,LAX,13:15,18:30,16.0,28.0,0,,,0,1946,305.0,No
+1001,2023-06-19,6,Monday,NK,Spirit Airlines,SEA,SFO,14:00,16:10,97.0,102.0,0,,,0,679,144.0,No
+1002,2023-02-13,2,Monday,F9,Frontier Airlines,SEA,LAX,08:30,11:15,1.0,3.0,0,,,0,954,176.0,Yes
+1003,2023-05-12,5,Friday,AS,Alaska Airlines,JFK,MIA,12:30,15:25,-8.0,4.0,0,,,0,1090,172.0,Yes
+1004,2023-11-02,11,Thursday,AA,American Airlines,SEA,SFO,16:45,18:55,29.0,46.0,0,,,0,679,132.0,No
+1005,2023-05-12,5,Friday,NK,Spirit Airlines,BOS,JFK,13:15,14:15,23.0,21.0,0,,,0,187,71.0,No
+1006,2023-09-18,9,Monday,AA,American Airlines,ORD,DFW,14:30,17:00,4.0,-15.0,0,,,0,802,148.0,Yes
+1007,2023-05-25,5,Thursday,WN,Southwest Airlines,DFW,LAX,11:00,14:15,-7.0,-4.0,0,,,0,1235,194.0,Yes
+1008,2023-09-16,9,Saturday,UA,United Airlines,DFW,LAX,11:30,14:45,-4.0,2.0,0,,,0,1235,207.0,Yes
+1009,2023-04-01,4,Saturday,WN,southwest airlines,LAX,JFK,13:15,18:45,,,1,B,Weather,0,2475,,Cancelled
+1010,2023-09-16,9,Saturday,WN,Southwest Airlines,BOS,ORD,12:15,14:50,5.0,-8.0,0,,,0,851,151.0,Yes
+1011,2023-05-24,5,Wednesday,DL,Delta Air Lines,ATL,ORD,16:00,18:10,9.0,8.0,0,,,0,606,127.0,Yes
+1012,2023-12-25,12,Monday,AA,American Airlines,LAX,JFK,13:15,18:45,2.0,,0,,,0,2475,332.0,
+1013,2023-03-10,3,Friday,F9,Frontier Airlines,DFW,LAX,12:00,15:15,17.0,22.0,0,,,0,1235,201.0,No
+1014,2023-05-04,5,Thursday,DL,Delta Air Lines,SEA,SFO,13:00,15:10,0.0,-7.0,0,,,0,679,127.0,Yes
+1015,2023-08-19,8,Saturday,AA,American Airlines,SFO,JFK,09:00,14:40,-6.0,-4.0,0,,,0,2586,341.0,Yes
+1016,2023-04-22,4,Saturday,AA,American Airlines,SEA,LAX,09:15,12:00,-6.0,-7.0,0,,,0,954,165.0,Yes
+1017,2023-11-09,11,Thursday,DL,Delta Air Lines,MSP,ATL,07:00,09:35,5.0,5.0,0,,,0,907,158.0,Yes
+1018,2023-07-05,7,Wednesday,AS,alaska airlines,BOS,JFK,19:15,20:15,,,1,A,Carrier,0,187,,Cancelled
+1019,2023-05-25,5,Thursday,WN,Southwest Airlines,ORD,DFW,19:15,21:45,33.0,53.0,0,,,0,802,140.0,No
+1020,2023-02-26,2,Sunday,WN,Southwest Airlines,BOS,ORD,09:45,12:20,-3.0,-9.0,0,,,0,851,154.0,Yes
+1021,2023-05-21,5,Sunday,DL,DELTA AIR LINES,BOS,ORD,22:45,01:20,0.0,-15.0,0,,,0,851,150.0,Yes
+1022,2023-08-17,8,Thursday,AS,Alaska Airlines,MSP,ATL,09:45,12:20,14.0,31.0,0,,,0,907,170.0,No
+1023,2023-04-22,4,Saturday,AS,Alaska Airlines,ATL,DFW,09:30,11:50,0.0,-3.0,0,,,0,732,136.0,Yes
+1024,2023-04-07,4,Friday,AA,American Airlines,MCO,ATL,19:30,21:10,-4.0,1.0,0,,,0,404,115.0,Yes
+1025,2023-03-26,3,Sunday,WN,Southwest Airlines,MCO,ATL,12:15,13:55,,,1,A,Carrier,0,404,,Cancelled
+1026,2023-06-13,6,Tuesday,WN,Southwest Airlines,IAH,ORD,13:15,15:55,37.0,56.0,0,,,0,925,157.0,No
+1027,2023-11-15,11,Wednesday,F9,Frontier Airlines,DFW,LAX,22:30,01:45,3.0,2.0,0,,,0,1235,200.0,Yes
+1028,2023-06-03,6,Saturday,WN,Southwest Airlines,BOS,ORD,15:15,17:50,9.0,6.0,0,,,0,851,167.0,Yes
+1029,2023-12-25,12,Monday,NK,Spirit Airlines,IAH,ORD,06:45,09:25,-1.0,-3.0,0,,,0,925,163.0,Yes
+1030,2023-05-11,5,Thursday,F9,Frontier Airlines,ATL,LAX,18:15,23:30,-10.0,-3.0,0,,,0,1946,307.0,Yes
+1031,2023-10-13,10,Friday,AS,alaska airlines,LAS,LAX,14:45,15:50,36.0,54.0,0,,,0,236,66.0,No
+1032,2023-02-08,2,Wednesday,AA,American Airlines,ATL,DFW,10:45,13:05,-4.0,-1.0,0,,,0,732,135.0,Yes
+1033,2023-07-22,7,Saturday,AA,American Airlines,MCO,ATL,18:45,20:25,45.0,62.0,0,,,0,404,112.0,No
+1034,2023-06-22,6,Thursday,AS,Alaska Airlines,SEA,LAX,17:00,19:45,3.0,0.0,0,,,0,954,175.0,Yes
+1035,2023-06-27,6,Tuesday,F9,Frontier Airlines,SFO,JFK,14:30,20:10,-8.0,-7.0,0,,,0,2586,344.0,Yes
+1036,2023-04-09,4,Sunday,AS,Alaska Airlines,BOS,ORD,14:00,16:35,6.0,24.0,0,,,0,851,152.0,No
+1037,2023-09-19,9,Tuesday,WN,Southwest Airlines,MCO,ATL,17:45,19:25,0.0,-4.0,0,,,0,404,98.0,Yes
+1038,2023-10-16,10,Monday,WN,Southwest Airlines,DEN,LAX,14:30,17:05,-1.0,-8.0,0,,,0,862,167.0,Yes
+1039,2023-12-01,12,Friday,F9,Frontier Airlines,ORD,DFW,15:45,18:15,8.0,11.0,0,,,0,802,142.0,Yes
+1040,2023-03-04,3,Saturday,B6,JetBlue Airways,LAX,JFK,19:15,00:45,20.0,29.0,0,,,0,2475,333.0,No
+1041,2023-09-03,9,Sunday,WN,Southwest Airlines,BOS,ORD,11:15,13:50,6.0,14.0,0,,,0,851,154.0,Yes
+1042,2023-09-26,9,Tuesday,B6,JetBlue Airways,BOS,JFK,12:45,13:45,14.0,17.0,0,,,0,187,55.0,No
+1043,2023-03-17,3,Friday,B6,JetBlue Airways,IAH,ORD,21:45,00:25,21.0,39.0,0,,,0,925,152.0,No
+1044,2023-01-25,1,Wednesday,B6,JetBlue Airways,BOS,JFK,11:45,12:45,13.0,13.0,0,,,0,187,65.0,Yes
+1045,2023-04-22,4,Saturday,NK,Spirit Airlines,MIA,LAX,18:00,23:55,29.0,27.0,0,,,0,2757,361.0,No
+1046,2023-10-02,10,Monday,F9,frontier airlines,SFO,JFK,12:30,18:10,4.0,0.0,0,,,0,2586,349.0,Yes
+1047,2023-02-21,2,Tuesday,DL,Delta Air Lines,SFO,JFK,10:45,16:25,15.0,18.0,0,,,0,2586,345.0,No
+1048,2023-10-26,10,Thursday,DL,Delta Air Lines,BOS,ORD,19:30,22:05,-10.0,-6.0,0,,,0,851,163.0,Yes
+1049,2023-12-11,12,Monday,NK,Spirit Airlines,SFO,JFK,12:15,17:55,25.0,33.0,0,,,0,2586,352.0,No
+1050,2023-07-19,7,Wednesday,AA,American Airlines,DFW,LAX,16:00,19:15,4.0,-15.0,0,,,0,1235,205.0,Yes
+1051,2023-12-22,12,Friday,DL,Delta Air Lines,LAS,LAX,18:30,19:35,5.0,2.0,0,,,0,236,75.0,Yes
+1052,2023-02-23,2,Thursday,DL,Delta Air Lines,SFO,JFK,15:00,20:40,,,1,C,National Air System,0,2586,,Cancelled
+1053,2023-02-03,2,Friday,UA,United Airlines,JFK,MIA,18:15,21:10,-3.0,-1.0,0,,,1,1090,186.0,Yes
+1054,2023-04-21,4,Friday,AS,Alaska Airlines,BOS,JFK,19:30,20:30,2.0,0.0,0,,,0,187,61.0,Yes
+1055,2023-10-16,10,Monday,AA,American Airlines,ATL,DFW,15:15,17:35,-4.0,4.0,0,,,0,732,154.0,Yes
+1056,2023-07-12,7,Wednesday,F9,Frontier Airlines,ATL,ORD,10:00,12:10,20.0,20.0,0,,,0,606,131.0,No
+1057,2023-11-04,11,Saturday,B6,JetBlue Airways,LAS,LAX,20:00,21:05,2.0,2.0,0,,,0,236,55.0,Yes
+1058,2023-09-08,9,Friday,AS,Alaska Airlines,ORD,DFW,21:00,23:30,0.0,4.0,0,,,0,802,154.0,Yes
+1059,2023-02-08,2,Wednesday,F9,Frontier Airlines,ORD,DFW,10:45,13:15,3.0,3.0,0,,,0,802,153.0,Yes
+1060,2023-06-08,6,Thursday,WN,Southwest Airlines,SFO,JFK,17:00,22:40,27.0,42.0,0,,,0,2586,336.0,No
+1061,2023-11-11,11,Saturday,AA,american airlines,ATL,ORD,13:15,15:25,37.0,56.0,0,,,0,606,127.0,No
+1062,2023-03-26,3,Sunday,UA,United Airlines,SEA,LAX,11:00,13:45,6.0,12.0,0,,,0,954,165.0,Yes
+1063,2023-07-19,7,Wednesday,F9,Frontier Airlines,PHX,DFW,09:45,12:15,-9.0,1.0,0,,,0,868,140.0,Yes
+1064,2023-04-20,4,Thursday,DL,Delta Air Lines,LAX,JFK,10:00,15:30,0.0,-3.0,0,,,0,2475,334.0,Yes
+1065,2023-06-08,6,Thursday,WN,Southwest Airlines,MSP,ATL,19:30,22:05,-7.0,-5.0,0,,,0,907,156.0,Yes
+1066,2023-07-02,7,Sunday,AS,Alaska Airlines,DFW,LAX,16:00,19:15,3.0,-14.0,0,,,0,1235,196.0,Yes
+1067,2023-10-09,10,Monday,AS,Alaska Airlines,ORD,DFW,13:45,16:15,-10.0,4.0,0,,,0,802,148.0,Yes
+1068,2023-09-13,9,Wednesday,UA,United Airlines,BOS,JFK,08:15,09:15,-8.0,1.0,0,,,0,187,60.0,Yes
+1069,2023-10-20,10,Friday,UA,United Airlines,JFK,MIA,07:00,09:55,5.0,4.0,0,,,0,1090,189.0,Yes
+1070,2023-03-13,3,Monday,B6,JetBlue Airways,ATL,ORD,07:00,09:10,-6.0,-7.0,0,,,0,606,135.0,Yes
+1071,2023-05-28,5,Sunday,AS,Alaska Airlines,LAX,JFK,07:45,13:15,,,1,C,National Air System,0,2475,,Cancelled
+1072,2023-02-13,2,Monday,NK,Spirit Airlines,MCO,ATL,06:30,08:10,4.0,-4.0,0,,,0,404,97.0,Yes
+1073,2023-07-21,7,Friday,UA,United Airlines,LAX,JFK,09:15,14:45,26.0,41.0,0,,,0,2475,324.0,No
+1074,2023-10-19,10,Thursday,F9,Frontier Airlines,SFO,JFK,20:30,02:10,-6.0,-1.0,0,,,0,2586,339.0,Yes
+1075,2023-01-21,1,Saturday,AS,Alaska Airlines,MCO,ATL,08:45,10:25,-9.0,-1.0,0,,,0,404,96.0,Yes
+1076,2023-07-21,7,Friday,AS,Alaska Airlines,LAX,JFK,11:00,16:30,4.0,1.0,0,,,0,2475,331.0,Yes
+1077,2023-04-04,4,Tuesday,AS,Alaska Airlines,LAX,JFK,18:30,00:00,-6.0,-5.0,0,,,0,2475,331.0,Yes
+1078,2023-11-05,11,Sunday,NK,Spirit Airlines,LAS,LAX,22:00,23:05,28.0,23.0,0,,,0,236,61.0,No
+1079,2023-10-18,10,Wednesday,DL,Delta Air Lines,DEN,ORD,22:00,00:40,-6.0,4.0,0,,,0,920,172.0,Yes
+1080,2023-08-10,8,Thursday,WN,Southwest Airlines,SFO,JFK,20:15,01:55,13.0,33.0,0,,,0,2586,341.0,No
+1081,2023-11-07,11,Tuesday,NK,Spirit Airlines,JFK,MIA,10:30,13:25,,,1,B,Weather,0,1090,,Cancelled
+1082,2023-01-25,1,Wednesday,DL,Delta Air Lines,MCO,ATL,11:30,13:10,3.0,-13.0,0,,,0,404,104.0,Yes
+1083,2023-03-01,3,Wednesday,DL,Delta Air Lines,PHX,DFW,16:00,18:30,-6.0,-11.0,0,,,0,-868,155.0,Yes
+1084,2023-11-05,11,Sunday,B6,JetBlue Airways,DEN,LAX,22:45,01:20,-1.0,-12.0,0,,,0,862,170.0,Yes
+1085,2023-04-14,4,Friday,WN,southwest airlines,DFW,LAX,06:30,09:45,-8.0,1.0,0,,,0,1235,201.0,Yes
+1086,2023-03-24,3,Friday,NK,Spirit Airlines,PHX,DFW,06:30,09:00,44.0,60.0,0,,,0,868,163.0,No
+1087,2023-08-06,8,Sunday,F9,Frontier Airlines,MIA,LAX,10:00,15:55,-9.0,-6.0,0,,,0,2757,346.0,Yes
+1088,2023-05-28,5,Sunday,WN,Southwest Airlines,MCO,ATL,07:30,09:10,3.0,-3.0,0,,,0,404,102.0,Yes
+1089,2023-01-14,1,Saturday,DL,Delta Air Lines,MSP,ATL,11:30,14:05,14.0,18.0,0,,,0,907,158.0,No
+1090,2023-08-26,8,Saturday,NK,spirit airlines,BOS,ORD,07:00,09:35,11.0,31.0,0,,,0,851,145.0,No
+1091,2023-05-19,5,Friday,AS,Alaska Airlines,PHX,DFW,07:15,09:45,1.0,-1.0,0,,,0,868,156.0,Yes
+1092,2023-02-09,2,Thursday,NK,Spirit Airlines,SEA,LAX,14:45,17:30,5.0,-9.0,0,,,0,954,169.0,Yes
+1093,2023-07-18,7,Tuesday,AS,Alaska Airlines,LAX,JFK,15:30,21:00,-5.0,-4.0,0,,,0,2475,326.0,Yes
+1094,2023-12-03,12,Sunday,UA,United Airlines,ATL,DFW,08:30,10:50,5.0,1.0,0,,,0,732,148.0,Yes
+1095,2023-06-17,6,Saturday,UA,United Airlines,DFW,LAX,07:00,10:15,62.0,67.0,0,,,0,1235,201.0,No
+1096,2023-07-03,7,Monday,B6,JetBlue Airways,ATL,DFW,22:15,00:35,-5.0,4.0,0,,,0,732,148.0,Yes
+1097,2023-06-20,6,Tuesday,WN,Southwest Airlines,BOS,JFK,06:45,07:45,-1.0,0.0,0,,,0,187,62.0,Yes
+1098,2023-12-23,12,Saturday,UA,United Airlines,LAS,LAX,16:30,17:35,90.0,101.0,0,,,0,236,69.0,No
+1099,2023-12-06,12,Wednesday,NK,Spirit Airlines,SEA,SFO,16:30,18:40,66.0,75.0,0,,,0,679,120.0,No
+1100,2023-08-27,8,Sunday,B6,JetBlue Airways,MIA,LAX,21:30,03:25,3.0,-11.0,0,,,0,2757,369.0,Yes
+1101,2023-06-25,6,Sunday,NK,Spirit Airlines,DEN,ORD,14:00,16:40,16.0,36.0,0,,,0,920,161.0,No
+1102,2023-07-15,7,Saturday,AS,Alaska Airlines,MIA,LAX,10:15,16:10,-5.0,-3.0,0,,,0,2757,354.0,Yes
+1103,2023-04-22,4,Saturday,AA,American Airlines,PHX,DFW,09:45,12:15,-10.0,4.0,0,,,0,868,165.0,Yes
+1104,2023-11-22,11,Wednesday,NK,Spirit Airlines,DFW,LAX,13:00,16:15,-4.0,-15.0,0,,,0,1235,198.0,Yes
+1105,2023-07-07,7,Friday,AA,American Airlines,DFW,LAX,16:45,20:00,5.0,14.0,0,,,0,1235,196.0,Yes
+1106,2023-07-10,7,Monday,WN,Southwest Airlines,BOS,ORD,13:30,16:05,5.0,-5.0,0,,,0,851,170.0,Yes
+1107,2023-04-02,4,Sunday,AS,Alaska Airlines,DFW,LAX,15:00,18:15,-2.0,0.0,0,,,0,1235,193.0,Yes
+1108,2023-01-04,1,Wednesday,WN,Southwest Airlines,SEA,SFO,19:30,21:40,,40.0,0,,,0,679,125.0,No
+1109,2023-04-21,4,Friday,B6,jetblue airways,LAS,LAX,07:00,08:05,20.0,38.0,0,,,0,236,60.0,No
+1110,2023-12-02,12,Saturday,UA,United Airlines,MCO,ATL,06:30,08:10,9.0,13.0,0,,,0,404,106.0,Yes
+1111,2023-08-09,8,Wednesday,UA,United Airlines,SFO,JFK,11:00,16:40,-4.0,-10.0,0,,,0,2586,342.0,Yes
+1112,2023-01-09,1,Monday,AS,Alaska Airlines,SEA,SFO,18:15,20:25,19.0,23.0,0,,,0,679,128.0,No
+1113,2023-08-10,8,Thursday,B6,JetBlue Airways,ORD,DFW,17:15,19:45,3.0,12.0,0,,,0,802,153.0,Yes
+1114,2023-06-17,6,Saturday,DL,Delta Air Lines,DEN,ORD,17:00,19:40,50.0,62.0,0,,,0,920,167.0,No
+1115,2023-06-26,6,Monday,DL,DELTA AIR LINES,DEN,ORD,07:45,10:25,-9.0,2.0,0,,,0,920,173.0,Yes
+1116,2023-09-03,9,Sunday,NK,Spirit Airlines,PHX,DFW,07:00,09:30,-1.0,-2.0,0,,,0,868,160.0,Yes
+1117,2023-01-22,1,Sunday,NK,Spirit Airlines,IAH,ORD,10:30,13:10,2.0,1.0,0,,,0,925,150.0,Yes
+1118,2023-06-12,6,Monday,WN,Southwest Airlines,SEA,SFO,10:30,12:40,-7.0,-14.0,0,,,0,679,144.0,Yes
+1119,2023-10-02,10,Monday,AA,American Airlines,SEA,SFO,18:45,20:55,18.0,37.0,0,,,0,679,129.0,No
+1120,2023-12-05,12,Tuesday,WN,SOUTHWEST AIRLINES,MCO,ATL,22:15,23:55,36.0,49.0,0,,,0,404,110.0,No
+1121,2023-04-23,4,Sunday,NK,Spirit Airlines,DEN,ORD,19:45,22:25,22.0,34.0,0,,,0,920,159.0,No
+1122,2023-03-09,3,Thursday,UA,United Airlines,IAH,ORD,12:30,15:10,1.0,-13.0,0,,,0,925,151.0,Yes
+1123,2023-03-28,3,Tuesday,WN,Southwest Airlines,MIA,LAX,16:30,22:25,33.0,34.0,0,,,0,2757,369.0,No
+1124,2023-06-18,6,Sunday,B6,JetBlue Airways,IAH,ORD,17:30,20:10,5.0,-1.0,0,,,0,925,165.0,Yes
+1125,2023-03-18,3,Saturday,UA,United Airlines,ATL,LAX,19:30,00:45,26.0,39.0,0,,,0,1946,325.0,No
+1126,2023-10-26,10,Thursday,F9,Frontier Airlines,JFK,MIA,17:15,20:10,-5.0,2.0,0,,,0,1090,181.0,Yes
+1127,2023-09-05,9,Tuesday,WN,Southwest Airlines,LAX,JFK,06:15,11:45,,0.0,0,,,0,-2475,333.0,Yes
+1128,2023-02-04,2,Saturday,NK,Spirit Airlines,JFK,MIA,22:15,01:10,-2.0,-4.0,0,,,0,1090,176.0,Yes
+1129,2023-01-13,1,Friday,DL,Delta Air Lines,ATL,ORD,18:45,20:55,5.0,22.0,0,,,0,606,133.0,No
+1130,2023-12-28,12,Thursday,WN,Southwest Airlines,DEN,LAX,21:30,00:05,,,1,A,Carrier,0,862,,Cancelled
+1131,2023-03-19,3,Sunday,AS,Alaska Airlines,ATL,LAX,10:45,16:00,79.0,81.0,0,,,0,1946,326.0,No
+1132,2023-02-14,2,Tuesday,AS,Alaska Airlines,ATL,ORD,13:00,15:10,,-5.0,0,,,0,606,134.0,Yes
+1133,2023-10-20,10,Friday,NK,Spirit Airlines,LAX,JFK,15:15,20:45,40.0,47.0,0,,,0,2475,343.0,No
+1134,2023-01-06,1,Friday,DL,Delta Air Lines,DFW,LAX,19:45,23:00,-7.0,-15.0,0,,,0,1235,204.0,Yes
+1135,2023-07-06,7,Thursday,WN,Southwest Airlines,BOS,JFK,18:15,19:15,64.0,63.0,0,,,0,187,63.0,No
+1136,2023-02-05,2,Sunday,WN,Southwest Airlines,SFO,JFK,15:00,20:40,66.0,73.0,0,,,0,2586,340.0,No
+1137,2023-04-06,4,Thursday,WN,Southwest Airlines,MIA,LAX,18:30,00:25,5.0,3.0,0,,,0,2757,353.0,Yes
+1138,2023-09-07,9,Thursday,AA,American Airlines,SFO,JFK,20:30,02:10,27.0,47.0,0,,,0,2586,334.0,No
+1139,2023-05-18,5,Thursday,F9,Frontier Airlines,BOS,JFK,22:45,23:45,1.0,2.0,0,,,0,187,53.0,Yes
+1140,2023-11-14,11,Tuesday,NK,Spirit Airlines,LAS,LAX,09:00,10:05,75.0,86.0,0,,,0,236,62.0,No
+1141,2023-02-10,2,Friday,AA,American Airlines,MIA,LAX,19:00,00:55,-6.0,-4.0,0,,,0,2757,351.0,Yes
+1142,2023-01-28,1,Saturday,AA,American Airlines,ORD,DFW,16:00,18:30,14.0,16.0,0,,,0,802,150.0,No
+1143,2023-01-24,1,Tuesday,NK,Spirit Airlines,IAH,ORD,12:45,15:25,19.0,20.0,0,,,0,925,175.0,No
+1144,2023-09-28,9,Thursday,DL,Delta Air Lines,BOS,ORD,21:30,00:05,-7.0,-4.0,0,,,0,851,150.0,Yes
+1145,2023-04-04,4,Tuesday,DL,Delta Air Lines,SEA,SFO,11:30,13:40,3.0,4.0,0,,,0,679,125.0,Yes
+1146,2023-02-11,2,Saturday,B6,JetBlue Airways,DFW,LAX,20:00,23:15,5.0,-11.0,0,,,0,1235,202.0,Yes
+1147,2023-01-26,1,Thursday,DL,Delta Air Lines,BOS,JFK,13:30,14:30,,,1,A,Carrier,0,187,,Cancelled
+1148,2023-07-04,7,Tuesday,F9,Frontier Airlines,SEA,LAX,09:30,12:15,1.0,2.0,0,,,0,954,178.0,Yes
+1149,2023-03-12,3,Sunday,AA,American Airlines,SFO,JFK,08:45,14:25,14.0,16.0,0,,,0,2586,352.0,No
+1150,2023-07-12,7,Wednesday,WN,Southwest Airlines,ATL,ORD,14:15,16:25,-1.0,3.0,0,,,0,606,141.0,Yes
+1151,2023-03-05,3,Sunday,UA,United Airlines,DFW,LAX,16:15,19:30,5.0,-11.0,0,,,0,1235,198.0,Yes
+1152,2023-06-11,6,Sunday,AS,Alaska Airlines,SFO,JFK,06:00,11:40,1.0,-13.0,0,,,0,2586,343.0,Yes
+1153,2023-12-22,12,Friday,F9,Frontier Airlines,LAS,LAX,07:00,08:05,4.0,-15.0,0,,,0,236,69.0,Yes
+1154,2023-12-09,12,Saturday,B6,JetBlue Airways,JFK,MIA,08:30,11:25,24.0,39.0,0,,,0,1090,174.0,No
+1155,2023-07-08,7,Saturday,DL,Delta Air Lines,DFW,LAX,22:45,02:00,,,1,B,Weather,0,1235,,Cancelled
+1156,2023-05-03,5,Wednesday,DL,Delta Air Lines,SEA,SFO,09:00,11:10,-6.0,-3.0,0,,,0,679,124.0,Yes
+1157,2023-08-24,8,Thursday,AS,Alaska Airlines,DEN,LAX,10:45,13:20,-4.0,-13.0,0,,,0,862,148.0,Yes
+1158,2023-07-20,7,Thursday,DL,Delta Air Lines,SEA,SFO,15:00,17:10,-1.0,-9.0,0,,,0,679,143.0,Yes
+1159,2023-08-20,8,Sunday,WN,Southwest Airlines,MIA,LAX,08:00,13:55,-6.0,-3.0,0,,,0,2757,356.0,Yes
+1160,2023-03-02,3,Thursday,AA,American Airlines,BOS,ORD,07:45,10:20,3.0,-2.0,0,,,0,851,162.0,Yes
+1161,2023-04-13,4,Thursday,UA,United Airlines,SEA,LAX,08:30,11:15,-3.0,-14.0,0,,,0,954,158.0,Yes
+1162,2023-02-16,2,Thursday,UA,United Airlines,ATL,LAX,17:30,22:45,25.0,28.0,0,,,0,1946,305.0,No
+1163,2023-07-12,7,Wednesday,F9,frontier airlines,SFO,JFK,07:45,13:25,12.0,15.0,0,,,0,2586,351.0,Yes
+1164,2023-05-05,5,Friday,F9,Frontier Airlines,PHX,DFW,11:00,13:30,3.0,-8.0,0,,,0,868,163.0,Yes
+1165,2023-01-13,1,Friday,WN,Southwest Airlines,DEN,ORD,08:45,11:25,-1.0,-5.0,0,,,0,920,161.0,Yes
+1166,2023-10-18,10,Wednesday,F9,Frontier Airlines,DEN,LAX,13:15,15:50,,,1,B,Weather,0,862,,Cancelled
+1167,2023-10-22,10,Sunday,AS,Alaska Airlines,ATL,LAX,18:30,23:45,-3.0,-2.0,0,,,0,1946,309.0,Yes
+1168,2023-10-03,10,Tuesday,AS,Alaska Airlines,SFO,JFK,09:15,14:55,-9.0,-2.0,0,,,0,2586,339.0,Yes
+1169,2023-01-07,1,Saturday,B6,JetBlue Airways,SEA,SFO,10:00,12:10,52.0,57.0,0,,,0,679,144.0,No
+1170,2023-11-28,11,Tuesday,AA,American Airlines,DEN,LAX,16:15,18:50,12.0,19.0,0,,,0,862,153.0,No
+1171,2023-02-26,2,Sunday,DL,Delta Air Lines,SFO,JFK,10:00,15:40,,,1,C,National Air System,0,2586,,Cancelled
+1172,2023-07-09,7,Sunday,DL,Delta Air Lines,BOS,JFK,08:00,09:00,15.0,24.0,0,,,0,187,75.0,No
+1173,2023-01-13,1,Friday,NK,Spirit Airlines,MIA,LAX,19:15,01:10,-2.0,-7.0,0,,,0,2757,364.0,Yes
+1174,2023-02-14,2,Tuesday,B6,JetBlue Airways,IAH,ORD,12:15,14:55,-10.0,-3.0,0,,,0,925,167.0,Yes
+1175,2023-12-26,12,Tuesday,WN,Southwest Airlines,ATL,LAX,14:00,19:15,1.0,3.0,0,,,0,1946,308.0,Yes
+1176,2023-12-26,12,Tuesday,WN,SOUTHWEST AIRLINES,BOS,JFK,18:30,19:30,-5.0,-10.0,0,,,0,187,73.0,Yes
+1177,2023-03-27,3,Monday,UA,United Airlines,BOS,JFK,21:30,22:30,20.0,,0,,,1,187,65.0,
+1178,2023-01-05,1,Thursday,AS,Alaska Airlines,ATL,ORD,10:00,12:10,-8.0,-4.0,0,,,0,606,138.0,Yes
+1179,2023-02-23,2,Thursday,F9,Frontier Airlines,LAS,LAX,17:15,18:20,2.0,-6.0,0,,,0,236,60.0,Yes
+1180,2023-08-11,8,Friday,AA,American Airlines,JFK,MIA,13:00,15:55,15.0,12.0,0,,,0,1090,170.0,Yes
+1181,2023-03-08,3,Wednesday,AA,American Airlines,BOS,ORD,08:30,11:05,41.0,37.0,0,,,0,851,150.0,No
+1182,2023-06-03,6,Saturday,WN,Southwest Airlines,JFK,MIA,07:30,10:25,,,1,A,Carrier,0,1090,,Cancelled
+1183,2023-12-03,12,Sunday,DL,Delta Air Lines,SEA,LAX,16:45,19:30,-5.0,4.0,0,,,0,954,158.0,Yes
+1184,2023-03-04,3,Saturday,B6,JetBlue Airways,MCO,ATL,07:45,09:25,-6.0,-14.0,0,,,0,404,99.0,Yes
+1185,2023-12-04,12,Monday,DL,Delta Air Lines,MIA,LAX,15:45,21:40,-2.0,-13.0,0,,,0,2757,356.0,Yes
+1186,2023-01-05,1,Thursday,B6,JetBlue Airways,BOS,JFK,09:00,10:00,3.0,3.0,0,,,0,187,62.0,Yes
+1187,2023-01-13,1,Friday,F9,Frontier Airlines,MCO,ATL,07:15,08:55,-5.0,-10.0,0,,,0,404,94.0,Yes
+1188,2023-12-24,12,Sunday,B6,JetBlue Airways,LAS,LAX,08:00,09:05,7.0,10.0,0,,,0,236,55.0,Yes
+1189,2023-07-25,7,Tuesday,DL,Delta Air Lines,ORD,DFW,09:30,12:00,3.0,-7.0,0,,,0,802,159.0,Yes
+1190,2023-09-08,9,Friday,NK,Spirit Airlines,LAS,LAX,07:45,08:50,-10.0,-5.0,0,,,0,236,63.0,Yes
+1191,2023-03-24,3,Friday,F9,Frontier Airlines,LAS,LAX,19:00,20:05,165.0,173.0,0,,,0,236,66.0,No
+1192,2023-03-27,3,Monday,AA,American Airlines,JFK,MIA,12:00,14:55,1.0,-9.0,0,,,0,1090,181.0,Yes
+1193,2023-07-12,7,Wednesday,F9,Frontier Airlines,BOS,JFK,17:15,18:15,58.0,,0,,,0,187,51.0,
+1194,2023-07-01,7,Saturday,B6,JetBlue Airways,MSP,ATL,06:45,09:20,-10.0,-8.0,0,,,0,907,154.0,Yes
+1195,2023-04-22,4,Saturday,WN,Southwest Airlines,SFO,JFK,22:45,04:25,14.0,20.0,0,,,0,2586,339.0,No
+1196,2023-03-05,3,Sunday,B6,JetBlue Airways,MCO,ATL,22:15,23:55,2.0,-5.0,0,,,0,404,110.0,Yes
+1197,2023-10-23,10,Monday,WN,Southwest Airlines,LAS,LAX,13:45,14:50,-1.0,-10.0,0,,,0,236,60.0,Yes
+1198,2023-03-12,3,Sunday,AS,Alaska Airlines,LAX,JFK,13:30,19:00,1.0,-7.0,0,,,0,2475,323.0,Yes
+1199,2023-07-10,7,Monday,DL,Delta Air Lines,IAH,ORD,19:00,21:40,4.0,9.0,0,,,0,925,164.0,Yes
+1200,2023-01-15,1,Sunday,AS,Alaska Airlines,ATL,ORD,14:15,16:25,999.0,46.0,0,,,0,606,122.0,No
+1201,2023-01-11,1,Wednesday,WN,Southwest Airlines,PHX,DFW,22:15,00:45,,,1,A,Carrier,0,868,,Cancelled
+1202,2023-07-19,7,Wednesday,DL,Delta Air Lines,IAH,ORD,15:15,17:55,,,1,A,Carrier,0,925,,Cancelled
+1203,2023-04-16,4,Sunday,NK,Spirit Airlines,DFW,LAX,17:15,20:30,2.0,-15.0,0,,,0,1235,189.0,Yes
+1204,2023-10-18,10,Wednesday,NK,Spirit Airlines,BOS,ORD,07:00,09:35,999.0,-14.0,0,,,0,851,157.0,Yes
+1205,2023-09-17,9,Sunday,NK,Spirit Airlines,ORD,DFW,14:15,16:45,-7.0,-6.0,0,,,0,802,146.0,Yes
+1206,2023-07-16,7,Sunday,UA,United Airlines,ATL,ORD,12:45,14:55,35.0,32.0,0,,,0,606,141.0,No
+1207,2023-04-09,4,Sunday,WN,southwest airlines,SFO,JFK,20:00,01:40,20.0,24.0,0,,,0,2586,343.0,No
+1208,2023-05-15,5,Monday,UA,United Airlines,LAS,LAX,14:00,15:05,-7.0,-3.0,0,,,0,236,67.0,Yes
+1209,2023-02-14,2,Tuesday,AA,American Airlines,JFK,MIA,21:45,00:40,,56.0,0,,,0,1090,188.0,No
+1210,2023-03-21,3,Tuesday,AA,American Airlines,LAX,JFK,16:00,21:30,-3.0,-5.0,0,,,0,2475,339.0,Yes
+1211,2023-08-06,8,Sunday,AA,American Airlines,ATL,LAX,22:45,04:00,-8.0,0.0,0,,,0,1946,313.0,Yes
+1212,2023-12-16,12,Saturday,F9,Frontier Airlines,LAX,JFK,20:30,02:00,13.0,8.0,0,,,0,2475,337.0,Yes
+1213,2023-04-12,4,Wednesday,WN,Southwest Airlines,SFO,JFK,07:15,12:55,5.0,-4.0,0,,,0,2586,354.0,Yes
+1214,2023-01-06,1,Friday,AS,Alaska Airlines,ORD,DFW,21:15,23:45,3.0,-12.0,0,,,0,802,143.0,Yes
+1215,2023-12-21,12,Thursday,NK,Spirit Airlines,ATL,ORD,09:45,11:55,24.0,,0,,,0,606,143.0,
+1216,2023-02-24,2,Friday,UA,United Airlines,BOS,JFK,10:00,11:00,0.0,1.0,0,,,0,187,69.0,Yes
+1217,2023-06-20,6,Tuesday,UA,United Airlines,DFW,LAX,22:30,01:45,0.0,2.0,0,,,0,1235,204.0,Yes
+1218,2023-07-23,7,Sunday,UA,United Airlines,DEN,ORD,16:00,18:40,3.0,2.0,0,,,0,920,175.0,Yes
+1219,2023-09-09,9,Saturday,UA,United Airlines,MCO,ATL,10:00,11:40,-9.0,-4.0,0,,,0,404,111.0,Yes
+1220,2023-12-13,12,Wednesday,B6,JetBlue Airways,ATL,ORD,18:45,20:55,0.0,2.0,0,,,0,606,126.0,Yes
+1221,2023-07-24,7,Monday,AS,Alaska Airlines,BOS,JFK,12:15,13:15,12.0,9.0,0,,,0,187,66.0,Yes
+1222,2023-06-23,6,Friday,AA,American Airlines,LAS,LAX,10:00,11:05,40.0,59.0,0,,,0,236,76.0,No
+1223,2023-01-26,1,Thursday,UA,United Airlines,DEN,ORD,22:15,00:55,-8.0,-4.0,0,,,0,920,160.0,Yes
+1224,2023-09-12,9,Tuesday,AA,American Airlines,ORD,DFW,20:15,22:45,-3.0,-14.0,0,,,0,802,165.0,Yes
+1225,2023-11-17,11,Friday,AS,Alaska Airlines,DEN,ORD,20:45,23:25,,,1,C,National Air System,0,920,,Cancelled
+1226,2023-03-22,3,Wednesday,AA,American Airlines,LAX,JFK,12:45,18:15,38.0,55.0,0,,,0,2475,333.0,No
+1227,2023-01-06,1,Friday,DL,delta air lines,LAX,JFK,14:00,19:30,13.0,21.0,0,,,0,2475,333.0,No
+1228,2023-05-17,5,Wednesday,AA,American Airlines,LAX,JFK,09:30,15:00,-8.0,-6.0,0,,,0,2475,332.0,Yes
+1229,2023-04-22,4,Saturday,B6,JetBlue Airways,DFW,LAX,17:00,20:15,,-14.0,0,,,0,1235,202.0,Yes
+1230,2023-12-21,12,Thursday,WN,Southwest Airlines,MSP,ATL,22:15,00:50,15.0,18.0,0,,,0,907,170.0,No
+1231,2023-09-03,9,Sunday,DL,Delta Air Lines,MCO,ATL,14:00,15:40,0.0,-4.0,0,,,0,404,93.0,Yes
+1232,2023-07-12,7,Wednesday,UA,United Airlines,BOS,JFK,16:45,17:45,20.0,22.0,0,,,0,187,58.0,No
+1233,2023-07-04,7,Tuesday,B6,JETBLUE AIRWAYS,MIA,LAX,11:00,16:55,-6.0,2.0,0,,,0,2757,365.0,Yes
+1234,2023-03-02,3,Thursday,NK,Spirit Airlines,BOS,JFK,14:45,15:45,20.0,22.0,0,,,0,-187,59.0,No
+1235,2023-02-15,2,Wednesday,UA,united airlines,DEN,ORD,11:15,13:55,-6.0,0.0,0,,,0,920,174.0,Yes
+1236,2023-06-15,6,Thursday,AS,Alaska Airlines,IAH,ORD,07:00,09:40,31.0,42.0,0,,,0,925,173.0,No
+1237,2023-03-13,3,Monday,DL,Delta Air Lines,DEN,ORD,13:45,16:25,5.0,,0,,,0,920,154.0,
+1238,2023-06-26,6,Monday,DL,Delta Air Lines,SEA,SFO,16:00,18:10,-4.0,3.0,0,,,0,679,120.0,Yes
+1239,2023-02-09,2,Thursday,UA,United Airlines,ATL,ORD,11:45,13:55,-10.0,-6.0,0,,,0,606,139.0,Yes
+1240,2023-09-17,9,Sunday,UA,United Airlines,ATL,DFW,14:15,16:35,4.0,4.0,0,,,0,732,142.0,Yes
+1241,2023-06-20,6,Tuesday,DL,Delta Air Lines,JFK,MIA,07:00,09:55,-10.0,5.0,0,,,0,1090,166.0,Yes
+1242,2023-02-09,2,Thursday,DL,Delta Air Lines,MSP,ATL,21:15,23:50,30.0,42.0,0,,,0,907,167.0,No
+1243,2023-05-04,5,Thursday,AS,Alaska Airlines,MSP,ATL,10:45,13:20,3.0,3.0,0,,,0,907,166.0,Yes
+1244,2023-04-19,4,Wednesday,F9,Frontier Airlines,BOS,ORD,17:45,20:20,-7.0,-8.0,0,,,0,851,150.0,Yes
+1245,2023-05-21,5,Sunday,AA,American Airlines,JFK,MIA,06:00,08:55,3.0,-13.0,0,,,0,1090,167.0,Yes
+1246,2023-08-16,8,Wednesday,AA,American Airlines,JFK,MIA,20:00,22:55,-1.0,-9.0,0,,,0,1090,181.0,Yes
+1247,2023-10-13,10,Friday,DL,Delta Air Lines,BOS,ORD,17:45,20:20,22.0,40.0,0,,,0,851,162.0,No
+1248,2023-12-13,12,Wednesday,WN,Southwest Airlines,SFO,JFK,06:30,12:10,-8.0,1.0,0,,,0,2586,355.0,Yes
+1249,2023-06-25,6,Sunday,NK,Spirit Airlines,BOS,JFK,13:30,14:30,27.0,40.0,0,,,0,187,58.0,No
+1250,2023-07-01,7,Saturday,AS,Alaska Airlines,DEN,ORD,14:15,16:55,0.0,-13.0,0,,,0,920,160.0,Yes
+1251,2023-03-24,3,Friday,F9,Frontier Airlines,DEN,LAX,13:30,16:05,8.0,22.0,0,,,0,862,148.0,No
+1252,2023-05-20,5,Saturday,AA,American Airlines,MIA,LAX,16:45,22:40,-2.0,0.0,0,,,0,2757,361.0,Yes
+1253,2023-05-13,5,Saturday,AA,American Airlines,DEN,ORD,11:45,14:25,4.0,,0,,,0,920,156.0,
+1254,2023-08-11,8,Friday,B6,JetBlue Airways,MIA,LAX,17:15,23:10,36.0,55.0,0,,,0,2757,353.0,No
+1255,2023-06-28,6,Wednesday,WN,Southwest Airlines,SEA,LAX,18:15,21:00,-6.0,0.0,0,,,0,954,170.0,Yes
+1256,2023-12-19,12,Tuesday,B6,JetBlue Airways,SEA,LAX,07:45,10:30,39.0,42.0,0,,,0,954,169.0,No
+1257,2023-05-28,5,Sunday,NK,Spirit Airlines,ORD,DFW,12:15,14:45,26.0,42.0,0,,,0,802,154.0,No
+1258,2023-08-20,8,Sunday,AS,Alaska Airlines,MSP,ATL,18:00,20:35,,,1,A,Carrier,0,907,,Cancelled
+1259,2023-12-15,12,Friday,NK,Spirit Airlines,BOS,ORD,17:45,20:20,52.0,51.0,0,,,0,851,168.0,No
+1260,2023-10-13,10,Friday,AA,American Airlines,ATL,LAX,22:00,03:15,-8.0,5.0,0,,,0,1946,312.0,Yes
+1261,2023-12-16,12,Saturday,AS,Alaska Airlines,LAS,LAX,20:30,21:35,25.0,37.0,0,,,0,236,75.0,No
+1262,2023-03-26,3,Sunday,F9,frontier airlines,SEA,LAX,08:45,11:30,,32.0,0,,,0,954,179.0,No
+1263,2023-01-25,1,Wednesday,F9,Frontier Airlines,MCO,ATL,19:30,21:10,1.0,-9.0,0,,,0,404,102.0,Yes
+1264,2023-10-26,10,Thursday,WN,Southwest Airlines,DEN,ORD,14:30,17:10,-2.0,-2.0,0,,,0,920,154.0,Yes
+1265,2023-01-18,1,Wednesday,AA,American Airlines,DFW,LAX,06:15,09:30,16.0,,0,,,0,1235,187.0,
+1266,2023-04-03,4,Monday,F9,Frontier Airlines,ATL,ORD,10:00,12:10,9.0,19.0,0,,,0,606,128.0,No
+1267,2023-10-02,10,Monday,F9,Frontier Airlines,SEA,SFO,12:45,14:55,13.0,14.0,0,,,0,679,129.0,Yes
+1268,2023-03-12,3,Sunday,F9,FRONTIER AIRLINES,MCO,ATL,07:15,08:55,,13.0,0,,,0,404,108.0,Yes
+1269,2023-02-12,2,Sunday,F9,Frontier Airlines,ATL,DFW,08:15,10:35,45.0,50.0,0,,,0,732,150.0,No
+1270,2023-11-21,11,Tuesday,AS,Alaska Airlines,SEA,LAX,17:45,20:30,10.0,16.0,0,,,0,954,156.0,No
+1271,2023-10-15,10,Sunday,AS,Alaska Airlines,LAS,LAX,14:15,15:20,,,1,A,Carrier,0,-236,,Cancelled
+1272,2023-12-01,12,Friday,NK,Spirit Airlines,JFK,MIA,17:15,20:10,33.0,40.0,0,,,0,1090,189.0,No
+1273,2023-11-05,11,Sunday,DL,delta air lines,ATL,ORD,11:00,13:10,-7.0,-14.0,0,,,0,606,141.0,Yes
+1274,2023-08-16,8,Wednesday,AA,American Airlines,DEN,LAX,08:45,11:20,56.0,74.0,0,,,0,862,156.0,No
+1275,2023-07-04,7,Tuesday,DL,Delta Air Lines,DEN,LAX,09:15,11:50,13.0,29.0,0,,,0,862,150.0,No
+1276,2023-02-26,2,Sunday,NK,Spirit Airlines,ORD,DFW,11:45,14:15,4.0,-4.0,0,,,0,802,150.0,Yes
+1277,2023-10-18,10,Wednesday,WN,southwest airlines,IAH,ORD,14:30,17:10,2.0,-15.0,0,,,0,925,169.0,Yes
+1278,2023-10-27,10,Friday,AS,Alaska Airlines,ATL,LAX,14:15,19:30,-6.0,-11.0,0,,,0,1946,312.0,Yes
+1279,2023-02-16,2,Thursday,AS,Alaska Airlines,MIA,LAX,09:30,15:25,,,1,C,National Air System,0,2757,,Cancelled
+1280,2023-12-28,12,Thursday,NK,Spirit Airlines,MSP,ATL,09:15,11:50,-10.0,5.0,0,,,0,907,154.0,Yes
+1281,2023-10-20,10,Friday,NK,Spirit Airlines,SFO,JFK,22:00,03:40,20.0,19.0,0,,,0,2586,348.0,No
+1282,2023-07-07,7,Friday,UA,United Airlines,MIA,LAX,21:45,03:40,38.0,56.0,0,,,0,2757,353.0,No
+1283,2023-04-12,4,Wednesday,AS,Alaska Airlines,DEN,LAX,06:30,09:05,4.0,4.0,0,,,0,862,152.0,Yes
+1284,2023-01-11,1,Wednesday,UA,United Airlines,MCO,ATL,09:30,11:10,10.0,28.0,0,,,0,404,106.0,No
+1285,2023-12-22,12,Friday,NK,Spirit Airlines,BOS,JFK,22:00,23:00,6.0,26.0,0,,,0,187,64.0,No
+1286,2023-04-28,4,Friday,DL,Delta Air Lines,ATL,LAX,18:15,23:30,-7.0,-5.0,0,,,0,1946,307.0,Yes
+1287,2023-06-13,6,Tuesday,B6,JetBlue Airways,LAS,LAX,11:00,12:05,17.0,21.0,0,,,0,236,71.0,No
+1288,2023-02-11,2,Saturday,B6,JetBlue Airways,SEA,SFO,18:15,20:25,15.0,29.0,0,,,0,679,133.0,No
+1289,2023-07-18,7,Tuesday,WN,Southwest Airlines,DFW,LAX,12:15,15:30,-6.0,-2.0,0,,,0,1235,189.0,Yes
+1290,2023-11-05,11,Sunday,UA,United Airlines,LAS,LAX,06:30,07:35,3.0,-6.0,0,,,0,236,75.0,Yes
+1291,2023-07-20,7,Thursday,B6,JetBlue Airways,ATL,DFW,13:15,15:35,55.0,72.0,0,,,0,732,149.0,No
+1292,2023-06-25,6,Sunday,WN,Southwest Airlines,ATL,ORD,06:30,08:40,44.0,45.0,0,,,0,606,134.0,No
+1293,2023-10-27,10,Friday,AA,American Airlines,ATL,DFW,18:30,20:50,-9.0,1.0,0,,,0,732,131.0,Yes
+1294,2023-04-15,4,Saturday,AA,American Airlines,DEN,LAX,18:30,21:05,-5.0,-2.0,0,,,0,862,167.0,Yes
+1295,2023-06-11,6,Sunday,UA,United Airlines,IAH,ORD,20:00,22:40,-4.0,-1.0,0,,,0,925,170.0,Yes
+1296,2023-07-23,7,Sunday,AS,Alaska Airlines,LAX,JFK,18:15,23:45,-5.0,-5.0,0,,,0,2475,324.0,Yes
+1297,2023-08-06,8,Sunday,F9,Frontier Airlines,MCO,ATL,09:15,10:55,,46.0,0,,,0,404,105.0,No
+1298,2023-06-15,6,Thursday,F9,Frontier Airlines,SFO,JFK,08:00,13:40,-4.0,-14.0,0,,,0,2586,341.0,Yes
+1299,2023-06-06,6,Tuesday,AA,American Airlines,ORD,DFW,11:30,14:00,-5.0,-1.0,0,,,0,802,141.0,Yes
+1300,2023-06-05,6,Monday,DL,Delta Air Lines,MCO,ATL,09:30,11:10,-4.0,-9.0,0,,,0,404,113.0,Yes
+1301,2023-08-28,8,Monday,B6,JetBlue Airways,MSP,ATL,16:30,19:05,1.0,-11.0,0,,,0,907,168.0,Yes
+1302,2023-01-15,1,Sunday,AA,American Airlines,ORD,DFW,09:15,11:45,3.0,-14.0,0,,,0,802,160.0,Yes
+1303,2023-02-22,2,Wednesday,AS,ALASKA AIRLINES,ATL,LAX,16:30,21:45,-10.0,-10.0,0,,,0,1946,326.0,Yes
+1304,2023-12-11,12,Monday,F9,Frontier Airlines,SEA,LAX,20:45,23:30,80.0,84.0,0,,,0,954,172.0,No
+1305,2023-11-01,11,Wednesday,UA,United Airlines,BOS,ORD,16:45,19:20,2.0,-10.0,0,,,0,851,169.0,Yes
+1306,2023-11-10,11,Friday,AS,Alaska Airlines,SFO,JFK,12:30,18:10,-9.0,-9.0,0,,,0,2586,330.0,Yes
+1307,2023-02-25,2,Saturday,B6,JetBlue Airways,LAS,LAX,09:15,10:20,47.0,64.0,0,,,0,236,64.0,No
+1308,2023-07-25,7,Tuesday,B6,JetBlue Airways,ATL,LAX,15:15,20:30,9.0,21.0,0,,,0,1946,308.0,No
+1309,2023-04-09,4,Sunday,AS,Alaska Airlines,SEA,LAX,10:30,13:15,27.0,41.0,0,,,0,954,156.0,No
+1310,2023-12-19,12,Tuesday,UA,United Airlines,ATL,DFW,20:30,22:50,-8.0,-1.0,0,,,0,732,155.0,Yes
+1311,2023-02-28,2,Tuesday,WN,Southwest Airlines,SEA,SFO,14:30,16:40,0.0,-5.0,0,,,0,679,135.0,Yes
+1312,2023-11-23,11,Thursday,DL,Delta Air Lines,IAH,ORD,09:30,12:10,12.0,24.0,0,,,0,925,157.0,No
+1313,2023-07-26,7,Wednesday,NK,Spirit Airlines,MSP,ATL,16:15,18:50,5.0,-12.0,0,,,0,907,162.0,Yes
+1314,2023-06-21,6,Wednesday,NK,Spirit Airlines,LAS,LAX,07:00,08:05,59.0,,0,,,0,236,59.0,
+1315,2023-07-26,7,Wednesday,AS,Alaska Airlines,MCO,ATL,15:45,17:25,,3.0,0,,,0,404,102.0,Yes
+1316,2023-11-12,11,Sunday,AA,American Airlines,SEA,LAX,09:30,12:15,45.0,58.0,0,,,0,954,167.0,No
+1317,2023-02-10,2,Friday,AS,Alaska Airlines,MSP,ATL,10:15,12:50,,,1,B,Weather,0,907,,Cancelled
+1318,2023-02-21,2,Tuesday,UA,United Airlines,LAX,JFK,19:45,01:15,3.0,4.0,0,,,0,-2475,337.0,Yes
+1319,2023-03-14,3,Tuesday,WN,Southwest Airlines,DEN,ORD,17:00,19:40,1.0,-12.0,0,,,0,920,152.0,Yes
+1320,2023-12-20,12,Wednesday,DL,Delta Air Lines,DEN,ORD,08:15,10:55,-8.0,5.0,0,,,0,920,169.0,Yes
+1321,2023-05-26,5,Friday,AS,Alaska Airlines,MSP,ATL,15:30,18:05,-1.0,3.0,0,,,0,907,163.0,Yes
+1322,2023-07-03,7,Monday,DL,Delta Air Lines,DFW,LAX,14:30,17:45,,22.0,0,,,0,1235,190.0,No
+1323,2023-02-26,2,Sunday,WN,Southwest Airlines,MIA,LAX,22:00,03:55,5.0,19.0,0,,,0,2757,360.0,No
+1324,2023-08-09,8,Wednesday,AS,Alaska Airlines,ATL,ORD,09:00,11:10,-1.0,0.0,0,,,0,606,137.0,Yes
+1325,2023-05-22,5,Monday,B6,JetBlue Airways,SFO,JFK,16:00,21:40,1.0,-2.0,0,,,0,2586,338.0,Yes
+1326,2023-10-07,10,Saturday,WN,Southwest Airlines,BOS,JFK,22:30,23:30,,,0,,,0,187,52.0,
+1327,2023-03-02,3,Thursday,B6,JetBlue Airways,BOS,ORD,06:00,08:35,,,1,B,Weather,0,851,,Cancelled
+1328,2023-12-20,12,Wednesday,DL,Delta Air Lines,LAX,JFK,10:45,16:15,-5.0,-12.0,0,,,0,2475,334.0,Yes
+1329,2023-02-25,2,Saturday,AS,Alaska Airlines,BOS,ORD,08:30,11:05,11.0,7.0,0,,,0,851,150.0,Yes
+1330,2023-10-14,10,Saturday,UA,United Airlines,SEA,LAX,12:00,14:45,-7.0,-14.0,0,,,0,-954,163.0,Yes
+1331,2023-02-23,2,Thursday,NK,spirit airlines,BOS,ORD,16:45,19:20,32.0,42.0,0,,,0,851,168.0,No
+1332,2023-07-18,7,Tuesday,F9,Frontier Airlines,ORD,DFW,17:30,20:00,62.0,77.0,0,,,0,802,150.0,No
+1333,2023-04-23,4,Sunday,NK,Spirit Airlines,DEN,LAX,18:00,20:35,51.0,66.0,0,,,0,862,146.0,No
+1334,2023-07-27,7,Thursday,B6,JETBLUE AIRWAYS,MIA,LAX,20:00,01:55,,,1,A,Carrier,0,2757,,Cancelled
+1335,2023-02-24,2,Friday,F9,Frontier Airlines,SEA,LAX,13:00,15:45,,,1,A,Carrier,0,954,,Cancelled
+1336,2023-02-21,2,Tuesday,UA,United Airlines,ATL,LAX,07:30,12:45,10.0,10.0,0,,,0,1946,308.0,Yes
+1337,2023-02-22,2,Wednesday,NK,Spirit Airlines,LAS,LAX,10:30,11:35,-9.0,3.0,0,,,0,236,63.0,Yes
+1338,2023-02-26,2,Sunday,AA,American Airlines,DFW,LAX,18:15,21:30,,,1,B,Weather,0,1235,,Cancelled
+1339,2023-09-26,9,Tuesday,B6,JetBlue Airways,MSP,ATL,21:15,23:50,4.0,-2.0,0,,,0,907,167.0,Yes
+1340,2023-01-18,1,Wednesday,AS,Alaska Airlines,MSP,ATL,13:15,15:50,-7.0,4.0,0,,,0,907,162.0,Yes
+1341,2023-06-06,6,Tuesday,UA,United Airlines,MIA,LAX,11:00,16:55,,,1,A,Carrier,0,2757,,Cancelled
+1342,2023-02-24,2,Friday,F9,Frontier Airlines,ATL,ORD,07:15,09:25,34.0,32.0,0,,,0,606,134.0,No
+1343,2023-02-08,2,Wednesday,AS,Alaska Airlines,SEA,SFO,19:15,21:25,18.0,31.0,0,,,0,679,124.0,No
+1344,2023-03-11,3,Saturday,AS,Alaska Airlines,BOS,ORD,10:00,12:35,8.0,6.0,0,,,0,851,150.0,Yes
+1345,2023-07-28,7,Friday,UA,United Airlines,BOS,JFK,13:00,14:00,-4.0,3.0,0,,,0,187,50.0,Yes
+1346,2023-12-01,12,Friday,UA,UNITED AIRLINES,BOS,JFK,19:00,20:00,,,1,B,Weather,0,187,,Cancelled
+1347,2023-06-16,6,Friday,F9,FRONTIER AIRLINES,ORD,DFW,13:00,15:30,15.0,23.0,0,,,0,802,149.0,No
+1348,2023-10-19,10,Thursday,F9,Frontier Airlines,BOS,JFK,06:45,07:45,22.0,29.0,0,,,0,187,70.0,No
+1349,2023-06-25,6,Sunday,AA,American Airlines,MCO,ATL,14:15,15:55,72.0,77.0,0,,,0,404,111.0,No
+1350,2023-09-25,9,Monday,DL,Delta Air Lines,SEA,LAX,12:15,15:00,-7.0,5.0,0,,,0,954,173.0,Yes
+1351,2023-01-03,1,Tuesday,NK,Spirit Airlines,BOS,ORD,17:30,20:05,27.0,25.0,0,,,0,851,162.0,No
+1352,2023-12-15,12,Friday,DL,Delta Air Lines,DEN,LAX,08:00,10:35,16.0,14.0,0,,,0,862,149.0,Yes
+1353,2023-05-14,5,Sunday,UA,United Airlines,MIA,LAX,20:00,01:55,32.0,52.0,0,,,0,2757,365.0,No
+1354,2023-04-19,4,Wednesday,F9,Frontier Airlines,SFO,JFK,10:30,16:10,19.0,25.0,0,,,0,2586,331.0,No
+1355,2023-11-23,11,Thursday,UA,United Airlines,JFK,MIA,10:15,13:10,59.0,72.0,0,,,0,1090,170.0,No
+1356,2023-04-04,4,Tuesday,UA,United Airlines,SEA,LAX,06:45,09:30,4.0,-5.0,0,,,0,954,172.0,Yes
+1357,2023-10-15,10,Sunday,UA,United Airlines,BOS,JFK,16:00,17:00,-6.0,,0,,,0,187,69.0,
+1358,2023-03-01,3,Wednesday,WN,Southwest Airlines,BOS,ORD,08:45,11:20,2.0,-9.0,0,,,0,851,161.0,Yes
+1359,2023-04-12,4,Wednesday,AS,Alaska Airlines,ATL,LAX,17:30,22:45,-8.0,-9.0,0,,,0,1946,318.0,Yes
+1360,2023-08-03,8,Thursday,UA,United Airlines,BOS,JFK,10:15,11:15,0.0,-13.0,0,,,0,187,62.0,Yes
+1361,2023-02-27,2,Monday,UA,United Airlines,DEN,LAX,18:30,21:05,96.0,100.0,0,,,0,862,162.0,No
+1362,2023-08-22,8,Tuesday,F9,Frontier Airlines,ORD,DFW,15:45,18:15,-3.0,-15.0,0,,,0,802,142.0,Yes
+1363,2023-07-24,7,Monday,DL,Delta Air Lines,PHX,DFW,06:30,09:00,10.0,19.0,0,,,0,868,145.0,No
+1364,2023-03-25,3,Saturday,DL,Delta Air Lines,DEN,ORD,11:00,13:40,19.0,24.0,0,,,0,920,159.0,No
+1365,2023-04-12,4,Wednesday,UA,United Airlines,DEN,ORD,21:45,00:25,-7.0,-9.0,0,,,0,920,156.0,Yes
+1366,2023-06-03,6,Saturday,DL,Delta Air Lines,MSP,ATL,09:15,11:50,-1.0,-4.0,0,,,0,907,164.0,Yes
+1367,2023-09-08,9,Friday,UA,UNITED AIRLINES,DFW,LAX,15:15,18:30,3.0,-12.0,0,,,0,1235,209.0,Yes
+1368,2023-12-09,12,Saturday,F9,Frontier Airlines,ORD,DFW,07:00,09:30,14.0,34.0,0,,,0,802,158.0,No
+1369,2023-02-28,2,Tuesday,AS,Alaska Airlines,PHX,DFW,22:15,00:45,20.0,33.0,0,,,0,868,162.0,No
+1370,2023-12-23,12,Saturday,WN,Southwest Airlines,DEN,ORD,21:30,00:10,11.0,9.0,0,,,0,920,162.0,Yes
+1371,2023-10-12,10,Thursday,UA,United Airlines,MIA,LAX,15:00,20:55,2.0,-6.0,0,,,0,2757,366.0,Yes
+1372,2023-09-12,9,Tuesday,DL,Delta Air Lines,MIA,LAX,11:00,16:55,-7.0,-3.0,0,,,0,2757,347.0,Yes
+1373,2023-05-07,5,Sunday,UA,United Airlines,LAX,JFK,16:15,21:45,-7.0,-8.0,0,,,0,2475,328.0,Yes
+1374,2023-09-20,9,Wednesday,AS,Alaska Airlines,MIA,LAX,18:45,00:40,17.0,15.0,0,,,0,2757,352.0,Yes
+1375,2023-08-22,8,Tuesday,UA,United Airlines,IAH,ORD,16:15,18:55,-8.0,1.0,0,,,0,925,156.0,Yes
+1376,2023-06-04,6,Sunday,AA,American Airlines,ATL,ORD,18:45,20:55,21.0,17.0,0,,,0,606,144.0,No
+1377,2023-09-16,9,Saturday,DL,Delta Air Lines,BOS,JFK,21:45,22:45,1.0,8.0,0,,,0,187,62.0,Yes
+1378,2023-11-24,11,Friday,AS,Alaska Airlines,PHX,DFW,06:30,09:00,1.0,-2.0,0,,,0,868,147.0,Yes
+1379,2023-07-11,7,Tuesday,UA,United Airlines,ATL,LAX,07:45,13:00,,-7.0,0,,,0,1946,305.0,Yes
+1380,2023-04-16,4,Sunday,DL,Delta Air Lines,DEN,LAX,22:30,01:05,3.0,-9.0,0,,,0,862,170.0,Yes
+1381,2023-10-03,10,Tuesday,WN,Southwest Airlines,ATL,DFW,09:30,11:50,5.0,-2.0,0,,,0,732,150.0,Yes
+1382,2023-07-15,7,Saturday,B6,JetBlue Airways,ATL,DFW,11:00,13:20,-5.0,3.0,0,,,0,732,153.0,Yes
+1383,2023-03-12,3,Sunday,AA,American Airlines,DEN,ORD,20:15,22:55,-1.0,-2.0,0,,,0,920,152.0,Yes
+1384,2023-03-04,3,Saturday,WN,Southwest Airlines,IAH,ORD,10:15,12:55,,,1,C,National Air System,0,925,,Cancelled
+1385,2023-02-09,2,Thursday,AA,American Airlines,DEN,LAX,10:00,12:35,-5.0,5.0,0,,,0,862,160.0,Yes
+1386,2023-09-22,9,Friday,NK,Spirit Airlines,PHX,DFW,08:45,11:15,-6.0,-8.0,0,,,0,868,143.0,Yes
+1387,2023-02-25,2,Saturday,WN,Southwest Airlines,ATL,DFW,16:30,18:50,-3.0,-2.0,0,,,0,732,136.0,Yes
+1388,2023-07-14,7,Friday,DL,Delta Air Lines,LAS,LAX,21:15,22:20,-6.0,-4.0,0,,,0,236,64.0,Yes
+1389,2023-07-13,7,Thursday,WN,Southwest Airlines,BOS,ORD,15:30,18:05,-3.0,-1.0,0,,,0,851,157.0,Yes
+1390,2023-08-11,8,Friday,UA,United Airlines,SFO,JFK,19:00,00:40,19.0,29.0,0,,,0,2586,340.0,No
+1391,2023-08-24,8,Thursday,AS,Alaska Airlines,MSP,ATL,16:45,19:20,-5.0,5.0,0,,,0,907,145.0,Yes
+1392,2023-09-14,9,Thursday,UA,United Airlines,ATL,DFW,16:45,19:05,-2.0,-10.0,0,,,0,732,155.0,Yes
+1393,2023-01-18,1,Wednesday,WN,Southwest Airlines,ATL,LAX,13:00,18:15,71.0,71.0,0,,,0,1946,324.0,No
+1394,2023-11-22,11,Wednesday,NK,Spirit Airlines,SFO,JFK,21:00,02:40,20.0,40.0,0,,,0,2586,342.0,No
+1395,2023-06-26,6,Monday,NK,Spirit Airlines,JFK,MIA,10:00,12:55,14.0,23.0,0,,,0,1090,186.0,No
+1396,2023-09-14,9,Thursday,WN,Southwest Airlines,IAH,ORD,14:00,16:40,16.0,18.0,0,,,0,925,169.0,No
+1397,2023-05-22,5,Monday,NK,Spirit Airlines,MCO,ATL,17:15,18:55,-5.0,-7.0,0,,,0,404,100.0,Yes
+1398,2023-06-28,6,Wednesday,AA,American Airlines,DFW,LAX,14:30,17:45,99.0,102.0,0,,,0,1235,193.0,No
+1399,2023-03-05,3,Sunday,F9,Frontier Airlines,ATL,ORD,07:15,09:25,12.0,29.0,0,,,0,606,135.0,No
+1400,2023-05-03,5,Wednesday,UA,United Airlines,ORD,DFW,12:30,15:00,25.0,28.0,0,,,0,802,146.0,No
+1401,2023-12-11,12,Monday,F9,Frontier Airlines,ORD,DFW,06:30,09:00,2.0,-4.0,0,,,0,802,150.0,Yes
+1402,2023-01-21,1,Saturday,AA,American Airlines,LAS,LAX,20:30,21:35,-6.0,-9.0,0,,,0,236,64.0,Yes
+1403,2023-10-28,10,Saturday,UA,United Airlines,SEA,SFO,18:00,20:10,,,1,A,Carrier,0,679,,Cancelled
+1404,2023-04-16,4,Sunday,UA,United Airlines,ORD,DFW,19:30,22:00,1.0,-12.0,0,,,0,802,155.0,Yes
+1405,2023-02-14,2,Tuesday,AS,Alaska Airlines,ATL,DFW,19:00,21:20,,,1,A,Carrier,0,732,,Cancelled
+1406,2023-08-21,8,Monday,F9,Frontier Airlines,DEN,ORD,22:00,00:40,58.0,78.0,0,,,0,920,154.0,No
+1407,2023-02-17,2,Friday,AA,American Airlines,DEN,ORD,19:45,22:25,-2.0,-4.0,0,,,0,920,166.0,Yes
+1408,2023-04-19,4,Wednesday,NK,Spirit Airlines,MCO,ATL,20:45,22:25,21.0,41.0,0,,,0,-404,113.0,No
+1409,2023-08-16,8,Wednesday,AA,American Airlines,JFK,MIA,20:45,23:40,5.0,-6.0,0,,,0,1090,176.0,Yes
+1410,2023-11-01,11,Wednesday,WN,Southwest Airlines,ORD,DFW,12:00,14:30,-3.0,-2.0,0,,,0,802,157.0,Yes
+1411,2023-06-16,6,Friday,UA,United Airlines,SFO,JFK,06:45,12:25,36.0,,0,,,0,2586,350.0,
+1412,2023-06-13,6,Tuesday,B6,JetBlue Airways,ATL,ORD,21:45,23:55,10.0,18.0,0,,,0,606,128.0,No
+1413,2023-02-10,2,Friday,NK,Spirit Airlines,ATL,LAX,12:45,18:00,39.0,52.0,0,,,0,1946,324.0,No
+1414,2023-11-16,11,Thursday,NK,Spirit Airlines,PHX,DFW,11:15,13:45,5.0,-11.0,0,,,0,868,155.0,Yes
+1415,2023-12-09,12,Saturday,AA,American Airlines,PHX,DFW,17:15,19:45,-9.0,-13.0,0,,,0,868,147.0,Yes
+1416,2023-12-23,12,Saturday,B6,JetBlue Airways,DFW,LAX,22:00,01:15,4.0,-1.0,0,,,0,1235,188.0,Yes
+1417,2023-12-07,12,Thursday,UA,United Airlines,ORD,DFW,17:15,19:45,5.0,-12.0,0,,,0,-802,144.0,Yes
+1418,2023-04-17,4,Monday,F9,Frontier Airlines,LAS,LAX,11:00,12:05,3.0,-4.0,0,,,0,236,79.0,Yes
+1419,2023-11-22,11,Wednesday,F9,Frontier Airlines,DEN,ORD,17:00,19:40,-8.0,-13.0,0,,,0,920,174.0,Yes
+1420,2023-04-14,4,Friday,AA,American Airlines,DEN,ORD,18:30,21:10,1.0,-15.0,0,,,0,920,169.0,Yes
+1421,2023-12-26,12,Tuesday,F9,Frontier Airlines,PHX,DFW,18:15,20:45,44.0,49.0,0,,,0,868,144.0,No
+1422,2023-01-26,1,Thursday,UA,United Airlines,ATL,LAX,14:15,19:30,26.0,37.0,0,,,0,1946,316.0,No
+1423,2023-04-08,4,Saturday,AA,American Airlines,SFO,JFK,13:30,19:10,-6.0,-3.0,0,,,0,2586,340.0,Yes
+1424,2023-01-02,1,Monday,NK,Spirit Airlines,LAX,JFK,19:15,00:45,9.0,25.0,0,,,0,2475,336.0,No
+1425,2023-11-06,11,Monday,F9,Frontier Airlines,MSP,ATL,10:15,12:50,-7.0,-9.0,0,,,0,907,150.0,Yes
+1426,2023-07-05,7,Wednesday,B6,JetBlue Airways,ATL,ORD,09:30,11:40,,51.0,0,,,0,606,145.0,No
+1427,2023-02-18,2,Saturday,F9,Frontier Airlines,ATL,LAX,17:00,22:15,23.0,27.0,0,,,0,1946,330.0,No
+1428,2023-02-28,2,Tuesday,F9,Frontier Airlines,SFO,JFK,16:00,21:40,3.0,-3.0,0,,,0,2586,347.0,Yes
+1429,2023-08-26,8,Saturday,AA,american airlines,BOS,JFK,15:00,16:00,14.0,26.0,0,,,0,187,68.0,No
+1430,2023-11-07,11,Tuesday,AA,AMERICAN AIRLINES,BOS,ORD,13:45,16:20,0.0,-3.0,0,,,0,851,145.0,Yes
+1431,2023-02-18,2,Saturday,DL,Delta Air Lines,ORD,DFW,11:30,14:00,2.0,1.0,0,,,0,802,145.0,Yes
+1432,2023-12-11,12,Monday,UA,United Airlines,MSP,ATL,14:45,17:20,-9.0,-9.0,0,,,0,907,152.0,Yes
+1433,2023-06-01,6,Thursday,NK,Spirit Airlines,LAX,JFK,19:15,00:45,35.0,48.0,0,,,0,2475,337.0,No
+1434,2023-07-06,7,Thursday,UA,UNITED AIRLINES,PHX,DFW,13:45,16:15,-9.0,-15.0,0,,,0,868,159.0,Yes
+1435,2023-05-27,5,Saturday,B6,JetBlue Airways,IAH,ORD,12:30,15:10,,,1,B,Weather,0,925,,Cancelled
+1436,2023-03-14,3,Tuesday,UA,united airlines,SEA,LAX,12:30,15:15,-2.0,-1.0,0,,,0,954,165.0,Yes
+1437,2023-06-01,6,Thursday,AA,American Airlines,ATL,DFW,06:15,08:35,5.0,-3.0,0,,,0,732,150.0,Yes
+1438,2023-05-13,5,Saturday,NK,Spirit Airlines,ATL,DFW,11:00,13:20,,41.0,0,,,0,732,154.0,No
+1439,2023-03-16,3,Thursday,B6,JetBlue Airways,SEA,SFO,17:00,19:10,-4.0,-15.0,0,,,0,679,132.0,Yes
+1440,2023-07-05,7,Wednesday,UA,United Airlines,LAX,JFK,08:15,13:45,-3.0,1.0,0,,,0,2475,341.0,Yes
+1441,2023-08-22,8,Tuesday,AA,american airlines,MSP,ATL,07:30,10:05,-2.0,-12.0,0,,,0,907,156.0,Yes
+1442,2023-05-07,5,Sunday,AS,Alaska Airlines,ATL,LAX,16:00,21:15,-3.0,-2.0,0,,,0,1946,311.0,Yes
+1443,2023-03-04,3,Saturday,AS,Alaska Airlines,BOS,ORD,21:15,23:50,0.0,1.0,0,,,0,851,169.0,Yes
+1444,2023-04-28,4,Friday,AA,American Airlines,IAH,ORD,08:15,10:55,,,1,C,National Air System,0,925,,Cancelled
+1445,2023-01-10,1,Tuesday,AA,American Airlines,SEA,LAX,18:45,21:30,-3.0,4.0,0,,,0,954,169.0,Yes
+1446,2023-07-11,7,Tuesday,AA,American Airlines,SFO,JFK,12:00,17:40,-8.0,3.0,0,,,0,2586,348.0,Yes
+1447,2023-01-05,1,Thursday,UA,United Airlines,ATL,ORD,15:45,17:55,1.0,-6.0,0,,,0,-606,124.0,Yes
+1448,2023-03-17,3,Friday,UA,United Airlines,ATL,ORD,07:45,09:55,-4.0,-13.0,0,,,0,606,142.0,Yes
+1449,2023-04-06,4,Thursday,B6,JetBlue Airways,MSP,ATL,09:45,12:20,5.0,-8.0,0,,,0,907,167.0,Yes
+1450,2023-05-06,5,Saturday,NK,Spirit Airlines,DEN,LAX,06:30,09:05,,,1,A,Carrier,0,862,,Cancelled
+1451,2023-01-07,1,Saturday,AS,alaska airlines,ATL,ORD,12:30,14:40,-5.0,-5.0,0,,,0,606,126.0,Yes
+1452,2023-12-07,12,Thursday,DL,Delta Air Lines,LAS,LAX,15:45,16:50,-5.0,1.0,0,,,0,236,68.0,Yes
+1453,2023-04-20,4,Thursday,NK,Spirit Airlines,PHX,DFW,19:15,21:45,-4.0,2.0,0,,,0,868,147.0,Yes
+1454,2023-11-16,11,Thursday,WN,Southwest Airlines,LAX,JFK,08:15,13:45,1.0,0.0,0,,,0,2475,342.0,Yes
+1455,2023-03-07,3,Tuesday,AA,American Airlines,DEN,LAX,20:15,22:50,15.0,22.0,0,,,0,862,156.0,No
+1456,2023-07-20,7,Thursday,AA,American Airlines,SFO,JFK,16:45,22:25,1.0,0.0,0,,,0,2586,335.0,Yes
+1457,2023-12-08,12,Friday,DL,Delta Air Lines,BOS,ORD,09:00,11:35,,,1,A,Carrier,0,851,,Cancelled
+1458,2023-09-20,9,Wednesday,B6,JetBlue Airways,DEN,LAX,10:30,13:05,,,1,A,Carrier,0,862,,Cancelled
+1459,2023-08-17,8,Thursday,AA,American Airlines,MIA,LAX,10:45,16:40,-4.0,0.0,0,,,0,2757,362.0,Yes
+1460,2023-06-15,6,Thursday,NK,Spirit Airlines,DEN,LAX,06:30,09:05,-1.0,-15.0,0,,,0,862,156.0,Yes
+1461,2023-01-19,1,Thursday,AS,Alaska Airlines,BOS,JFK,07:15,08:15,0.0,3.0,0,,,0,187,69.0,Yes
+1462,2023-04-19,4,Wednesday,F9,Frontier Airlines,ORD,DFW,20:30,23:00,26.0,26.0,0,,,0,802,155.0,No
+1463,2023-01-12,1,Thursday,DL,Delta Air Lines,SFO,JFK,22:00,03:40,3.0,-3.0,0,,,0,2586,347.0,Yes
+1464,2023-11-23,11,Thursday,B6,JetBlue Airways,MSP,ATL,21:15,23:50,-4.0,1.0,0,,,1,907,151.0,Yes
+1465,2023-06-19,6,Monday,F9,Frontier Airlines,SFO,JFK,07:00,12:40,4.0,-4.0,0,,,0,2586,339.0,Yes
+1466,2023-05-22,5,Monday,NK,Spirit Airlines,SFO,JFK,11:00,16:40,-3.0,-10.0,0,,,0,2586,339.0,Yes
+1467,2023-01-25,1,Wednesday,DL,Delta Air Lines,PHX,DFW,09:30,12:00,9.0,,0,,,0,868,160.0,
+1468,2023-02-23,2,Thursday,AA,American Airlines,BOS,ORD,10:30,13:05,999.0,-13.0,0,,,0,851,167.0,Yes
+1469,2023-04-04,4,Tuesday,DL,Delta Air Lines,JFK,MIA,18:15,21:10,,,1,C,National Air System,0,1090,,Cancelled
+1470,2023-03-15,3,Wednesday,AA,American Airlines,SEA,LAX,07:00,09:45,,40.0,0,,,0,-954,179.0,No
+1471,2023-04-27,4,Thursday,AA,American Airlines,ATL,LAX,12:00,17:15,-5.0,-10.0,0,,,0,1946,315.0,Yes
+1472,2023-02-12,2,Sunday,WN,Southwest Airlines,DEN,LAX,16:15,18:50,,,1,B,Weather,0,862,,Cancelled
+1473,2023-05-02,5,Tuesday,B6,JetBlue Airways,ATL,DFW,08:15,10:35,5.0,-12.0,0,,,0,732,148.0,Yes
+1474,2023-02-21,2,Tuesday,UA,United Airlines,LAS,LAX,16:45,17:50,,,1,A,Carrier,0,236,,Cancelled
+1475,2023-01-20,1,Friday,AA,american airlines,SEA,SFO,09:30,11:40,8.0,22.0,0,,,0,679,135.0,No
+1476,2023-02-09,2,Thursday,F9,Frontier Airlines,LAS,LAX,16:00,17:05,-1.0,-15.0,0,,,0,236,65.0,Yes
+1477,2023-12-13,12,Wednesday,WN,Southwest Airlines,ATL,DFW,22:30,00:50,-8.0,0.0,0,,,0,732,150.0,Yes
+1478,2023-07-03,7,Monday,WN,Southwest Airlines,SEA,SFO,19:45,21:55,-3.0,-2.0,0,,,0,679,129.0,Yes
+1479,2023-05-06,5,Saturday,AS,Alaska Airlines,IAH,ORD,21:45,00:25,3.0,-11.0,0,,,0,925,150.0,Yes
+1480,2023-05-15,5,Monday,UA,UNITED AIRLINES,BOS,ORD,15:45,18:20,5.0,-13.0,0,,,0,851,151.0,Yes
+1481,2023-12-14,12,Thursday,F9,Frontier Airlines,IAH,ORD,18:30,21:10,51.0,48.0,0,,,0,925,153.0,No
+1482,2023-09-16,9,Saturday,AS,Alaska Airlines,DEN,ORD,17:00,19:40,-3.0,-8.0,0,,,0,920,161.0,Yes
+1483,2023-03-20,3,Monday,UA,United Airlines,BOS,ORD,11:00,13:35,24.0,31.0,0,,,0,851,147.0,No
+1484,2023-04-24,4,Monday,NK,Spirit Airlines,BOS,JFK,19:00,20:00,1.0,-11.0,0,,,0,-187,73.0,Yes
+1485,2023-06-21,6,Wednesday,NK,Spirit Airlines,DEN,ORD,15:45,18:25,94.0,93.0,0,,,0,920,153.0,No
+1486,2023-06-21,6,Wednesday,B6,jetblue airways,MSP,ATL,09:15,11:50,,,1,A,Carrier,0,907,,Cancelled
+1487,2023-01-02,1,Monday,F9,Frontier Airlines,ORD,DFW,14:00,16:30,-9.0,-12.0,0,,,0,802,152.0,Yes
+1488,2023-05-22,5,Monday,NK,Spirit Airlines,LAS,LAX,16:30,17:35,2.0,-3.0,0,,,0,236,65.0,Yes
+1489,2023-02-28,2,Tuesday,AA,AMERICAN AIRLINES,ATL,DFW,22:30,00:50,-3.0,-4.0,0,,,0,732,145.0,Yes
+1490,2023-08-12,8,Saturday,AS,Alaska Airlines,ATL,LAX,07:30,12:45,10.0,17.0,0,,,0,1946,316.0,No
+1491,2023-08-07,8,Monday,NK,Spirit Airlines,MCO,ATL,10:00,11:40,-1.0,2.0,0,,,0,404,104.0,Yes
+1492,2023-06-23,6,Friday,DL,Delta Air Lines,ORD,DFW,06:15,08:45,13.0,32.0,0,,,0,802,161.0,No
+1493,2023-12-08,12,Friday,DL,Delta Air Lines,LAS,LAX,08:30,09:35,2.0,5.0,0,,,0,236,68.0,Yes
+1494,2023-07-12,7,Wednesday,WN,Southwest Airlines,ORD,DFW,10:30,13:00,-10.0,-6.0,0,,,0,802,152.0,Yes
+1495,2023-05-01,5,Monday,WN,Southwest Airlines,ORD,DFW,20:30,23:00,-3.0,0.0,0,,,0,802,149.0,Yes
+1496,2023-12-23,12,Saturday,DL,Delta Air Lines,BOS,ORD,21:15,23:50,2.0,-14.0,0,,,0,851,167.0,Yes
+1497,2023-10-13,10,Friday,UA,United Airlines,MIA,LAX,15:15,21:10,0.0,-2.0,0,,,0,2757,369.0,Yes
+1498,2023-02-11,2,Saturday,NK,Spirit Airlines,ORD,DFW,07:30,10:00,7.0,16.0,0,,,0,802,144.0,No
+1499,2023-05-14,5,Sunday,DL,Delta Air Lines,DFW,LAX,11:00,14:15,-5.0,-14.0,0,,,0,1235,195.0,Yes
+1500,2023-09-20,9,Wednesday,F9,FRONTIER AIRLINES,MCO,ATL,11:45,13:25,-8.0,-1.0,0,,,0,404,98.0,Yes
+1501,2023-07-19,7,Wednesday,WN,Southwest Airlines,ATL,LAX,21:30,02:45,61.0,61.0,0,,,0,1946,327.0,No
+1502,2023-11-23,11,Thursday,UA,United Airlines,IAH,ORD,06:45,09:25,5.0,-13.0,0,,,0,925,172.0,Yes
+1503,2023-07-15,7,Saturday,UA,United Airlines,ATL,LAX,16:00,21:15,,,1,B,Weather,0,1946,,Cancelled
+1504,2023-07-10,7,Monday,DL,Delta Air Lines,ORD,DFW,17:15,19:45,-10.0,-8.0,0,,,0,802,156.0,Yes
+1505,2023-07-17,7,Monday,AS,Alaska Airlines,ATL,DFW,12:00,14:20,32.0,33.0,0,,,0,732,136.0,No
+1506,2023-03-09,3,Thursday,DL,Delta Air Lines,SEA,LAX,18:15,21:00,10.0,26.0,0,,,0,954,172.0,No
+1507,2023-11-05,11,Sunday,UA,United Airlines,MSP,ATL,16:45,19:20,-3.0,-13.0,0,,,0,907,166.0,Yes
+1508,2023-01-04,1,Wednesday,WN,Southwest Airlines,BOS,ORD,18:15,20:50,41.0,39.0,0,,,0,851,154.0,No
+1509,2023-02-02,2,Thursday,B6,JetBlue Airways,ATL,DFW,11:30,13:50,48.0,68.0,0,,,0,732,147.0,No
+1510,2023-02-13,2,Monday,UA,United Airlines,DFW,LAX,14:00,17:15,1.0,-8.0,0,,,0,1235,199.0,Yes
+1511,2023-08-28,8,Monday,WN,Southwest Airlines,MCO,ATL,08:30,10:10,18.0,33.0,0,,,0,404,92.0,No
+1512,2023-12-24,12,Sunday,NK,Spirit Airlines,DEN,ORD,10:45,13:25,,-3.0,0,,,1,920,173.0,Yes
+1513,2023-06-06,6,Tuesday,AA,American Airlines,ATL,DFW,22:15,00:35,18.0,29.0,0,,,0,732,145.0,No
+1514,2023-04-16,4,Sunday,DL,Delta Air Lines,MCO,ATL,15:30,17:10,2.0,-9.0,0,,,0,404,110.0,Yes
+1515,2023-06-11,6,Sunday,AA,American Airlines,ATL,DFW,15:30,17:50,17.0,,0,,,0,732,143.0,
+1516,2023-03-16,3,Thursday,UA,United Airlines,BOS,ORD,18:30,21:05,5.0,17.0,0,,,0,-851,159.0,No
+1517,2023-03-10,3,Friday,WN,Southwest Airlines,ORD,DFW,07:15,09:45,-9.0,-10.0,0,,,0,802,161.0,Yes
+1518,2023-10-24,10,Tuesday,NK,Spirit Airlines,DEN,ORD,18:15,20:55,999.0,56.0,0,,,0,920,174.0,No
+1519,2023-04-16,4,Sunday,F9,Frontier Airlines,MCO,ATL,08:45,10:25,66.0,66.0,0,,,0,404,98.0,No
+1520,2023-12-19,12,Tuesday,UA,United Airlines,DEN,LAX,10:15,12:50,30.0,31.0,0,,,0,862,164.0,No
+1521,2023-06-16,6,Friday,WN,southwest airlines,LAS,LAX,07:45,08:50,13.0,19.0,0,,,0,236,68.0,No
+1522,2023-03-20,3,Monday,B6,JetBlue Airways,MIA,LAX,09:45,15:40,1.0,-5.0,0,,,0,2757,345.0,Yes
+1523,2023-08-09,8,Wednesday,AS,Alaska Airlines,SEA,SFO,12:45,14:55,17.0,35.0,0,,,0,679,140.0,No
+1524,2023-10-07,10,Saturday,B6,JetBlue Airways,MIA,LAX,10:00,15:55,-2.0,2.0,0,,,0,2757,359.0,Yes
+1525,2023-08-09,8,Wednesday,AA,American Airlines,JFK,MIA,10:30,13:25,,,1,B,Weather,0,1090,,Cancelled
+1526,2023-06-25,6,Sunday,DL,Delta Air Lines,JFK,MIA,22:45,01:40,-2.0,-9.0,0,,,0,1090,171.0,Yes
+1527,2023-12-08,12,Friday,B6,JetBlue Airways,MCO,ATL,15:30,17:10,33.0,45.0,0,,,0,404,94.0,No
+1528,2023-02-01,2,Wednesday,WN,SOUTHWEST AIRLINES,SEA,LAX,17:30,20:15,-2.0,-11.0,0,,,0,954,165.0,Yes
+1529,2023-03-01,3,Wednesday,B6,JetBlue Airways,JFK,MIA,09:45,12:40,67.0,82.0,0,,,0,1090,179.0,No
+1530,2023-05-05,5,Friday,WN,Southwest Airlines,MSP,ATL,21:00,23:35,-5.0,-9.0,0,,,0,907,150.0,Yes
+1531,2023-01-14,1,Saturday,DL,DELTA AIR LINES,DFW,LAX,13:45,17:00,-7.0,1.0,0,,,0,1235,185.0,Yes
+1532,2023-03-25,3,Saturday,AA,American Airlines,DFW,LAX,08:30,11:45,-10.0,-15.0,0,,,0,1235,208.0,Yes
+1533,2023-04-16,4,Sunday,UA,United Airlines,MCO,ATL,10:15,11:55,,,1,B,Weather,0,404,,Cancelled
+1534,2023-07-27,7,Thursday,B6,JetBlue Airways,ORD,DFW,19:15,21:45,,,1,A,Carrier,0,802,,Cancelled
+1535,2023-06-06,6,Tuesday,NK,Spirit Airlines,ORD,DFW,09:15,11:45,1.0,-13.0,0,,,0,802,142.0,Yes
+1536,2023-08-27,8,Sunday,UA,United Airlines,MCO,ATL,15:30,17:10,51.0,67.0,0,,,0,404,112.0,No
+1537,2023-06-24,6,Saturday,UA,United Airlines,IAH,ORD,21:00,23:40,-2.0,-11.0,0,,,0,925,155.0,Yes
+1538,2023-11-21,11,Tuesday,AS,Alaska Airlines,DFW,LAX,13:45,17:00,5.0,2.0,0,,,0,1235,187.0,Yes
+1539,2023-01-07,1,Saturday,WN,Southwest Airlines,PHX,DFW,06:30,09:00,-7.0,-14.0,0,,,0,868,164.0,Yes
+1540,2023-11-08,11,Wednesday,WN,Southwest Airlines,DEN,LAX,07:15,09:50,-6.0,-3.0,0,,,0,862,158.0,Yes
+1541,2023-05-05,5,Friday,AA,American Airlines,DFW,LAX,08:15,11:30,,,1,B,Weather,0,1235,,Cancelled
+1542,2023-06-24,6,Saturday,B6,JetBlue Airways,MIA,LAX,16:45,22:40,-1.0,-12.0,0,,,0,2757,346.0,Yes
+1543,2023-09-27,9,Wednesday,F9,Frontier Airlines,SEA,LAX,14:30,17:15,40.0,43.0,0,,,0,954,159.0,No
+1544,2023-06-11,6,Sunday,DL,DELTA AIR LINES,SFO,JFK,18:45,00:25,3.0,-9.0,0,,,0,2586,341.0,Yes
+1545,2023-08-01,8,Tuesday,DL,delta air lines,DEN,LAX,15:15,17:50,-9.0,-8.0,0,,,0,862,163.0,Yes
+1546,2023-05-17,5,Wednesday,AS,Alaska Airlines,MCO,ATL,12:30,14:10,-6.0,-12.0,0,,,0,404,106.0,Yes
+1547,2023-02-05,2,Sunday,AA,American Airlines,MCO,ATL,20:00,21:40,37.0,39.0,0,,,0,404,110.0,No
+1548,2023-11-05,11,Sunday,AS,Alaska Airlines,SFO,JFK,16:30,22:10,3.0,-14.0,0,,,0,2586,342.0,Yes
+1549,2023-02-25,2,Saturday,DL,Delta Air Lines,ATL,LAX,15:00,20:15,-5.0,-6.0,0,,,0,1946,316.0,Yes
+,,,,,,,,,,,,,,,,,,
+1005,2023-05-12,5,Friday,NK,Spirit Airlines,BOS,JFK,13:15,14:15,23.0,21.0,0,,,0,187,71.0,No
